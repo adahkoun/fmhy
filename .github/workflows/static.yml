@@ -1,8 +1,14 @@
-name: 📅 Schedule Workflow Dispatch
+name: Schedule Workflow Dispatch
 on:
   schedule:
-    - cron: '*/5  * * * *' # every hour
+    - cron: '0 */1 * * *' # every hour
   workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to run the workflow'
+        required: true
+        type: string
+        default: 'in 1 hour'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
