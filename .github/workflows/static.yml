@@ -35,12 +35,13 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Commit files
         run: |
+          mkdir fmhy
           curl https://api.fmhy.net/single-page > fmhy.txt
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './fmhy.txt'
+          path: './fmhy'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
