@@ -36,7 +36,7 @@ jobs:
       - name: Commit files
         run: |
           mkdir fmhy
-          curl https://api.fmhy.net/single-page > fmhy.txt
+          curl https://api.fmhy.net/single-page > fmhy/fmhy.txt
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
