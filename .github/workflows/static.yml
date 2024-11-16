@@ -26,7 +26,7 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
-      name: github-pages
+      name: fmhy
       url: https://api.fmhy.net/single-page
     runs-on: ubuntu-latest
     steps:
