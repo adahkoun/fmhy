@@ -1,24 +1,28 @@
 name: Update Webpage Content
 
 on:
-  workflow_dispatch:  # Allows manual triggering via GitHub UI
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight (adjust as needed)
+    - cron: '0 0 * * *'  # Daily at midnight
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit/push
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch webpage content
-        run: curl -o fmhy.txt https://api.fmhy.net/single-page # Replace URL and filename
+        run: curl -s -o fmhy.txt https://api.fmhy.net/single-page || true
 
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9  # Simplified commit action
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
         with:
-          add: fmhy.txt  # File to commit
-          message: 'Update webpage content'
+          add: fmhy.txt
+          message: "Update webpage content"
           author_name: GitHub Actions
-          author_email: actions@github.com
