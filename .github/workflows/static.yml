@@ -1,41 +1,24 @@
-name: Schedule Workflow Dispatch
+name: Update Webpage Content
+
 on:
+  workflow_dispatch:  # Allows manual triggering via GitHub UI
   schedule:
-    - cron: '0 0 * * *' # every hour
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+    - cron: '0 0 * * *'  # Runs daily at midnight (adjust as needed)
 
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: fmhy
-      url: https://api.fmhy.net/single-page
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Commit files
-        run: |
-          mkdir fmhy
-          curl https://api.fmhy.net/single-page > fmhy/fmhy.txt
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+
+      - name: Fetch webpage content
+        run: curl -o fmhy.txt https://api.fmhy.net/single-page # Replace URL and filename
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9  # Simplified commit action
         with:
-          # Upload entire repository
-          path: './fmhy'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          add: fmhy.txt  # File to commit
+          message: 'Update webpage content'
+          author_name: GitHub Actions
+          author_email: actions@github.com
