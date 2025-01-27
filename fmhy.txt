@@ -5,10 +5,6 @@
 ***
 ***
 
-
-
-
-
 # ► Adblocking
 
 * **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously to [avoid breakage](https://x.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine.
