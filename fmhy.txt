@@ -329,7 +329,7 @@
 * 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
-* ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
+* ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [Setup Guide](https://rentry.co/FMHYBase64#warp-wireguard) / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
 * ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 * ⭐ **[Proton VPN](https://protonvpn.com)** - No Torrenting with Free Plan / Unlimited / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator) / [GitHub](https://github.com/riseupnet)
@@ -388,7 +388,6 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* ⭐ **[Incognito](https://incog.works/)**
 * ⭐ **[Alu](https://aluu.xyz/en/)** / [Discord](https://discord.gg/unblock)
 * [Holy Unblocker](https://holyunblocker.org/) / [GitHub](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
@@ -560,6 +559,7 @@
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Trae](https://www.trae.ai/) - Coding AI
 * [Cline](https://github.com/cline/cline) - Coding AI / [Discord](https://discord.gg/cline)
+* [Cursor](https://rentry.co/FMHYBase64#cursor) - Coding AI
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
 * [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
@@ -612,7 +612,7 @@
 * 🌐 **[Jailbreak Listings](https://rentry.org/jb-listing)** - Prompt / Jailbreak Lists
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) - Prompting Guides
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) - Prompting Guides
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) - AI Jailbreak Community
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
@@ -993,7 +993,7 @@
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index / [Tools](https://github.com/legendsayantan/ShizuTools)
 * ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** - Simple FOSS Apps
 * ⭐ **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS App Installer
-* [F-Droid](https://f-droid.org/) - FOSS App Installer / [Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
+* [F-Droid](https://f-droid.org/) or [Awesome F-Droid](https://fdroid.tabler.dev/) / [GitHub](https://github.com/moneytoo/awesome-fdroid) - FOSS App Installer / [Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
 * F-Droid Tools - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [Advanced Search](https://github.com/dbeley/fdroid-insights)
 * [Goodwy](https://github.com/Goodwy?tab=repositories) - Simple FOSS Apps
 * [Neo Store](https://github.com/NeoApplications/Neo-Store) - FOSS App Installer
@@ -1343,7 +1343,7 @@
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/) / [2](https://github.com/Exodus-Privacy/exodus-android-app), [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) or [HideDroid](https://github.com/Dado1513/HideDroid) - App Permission Managers
+* ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/) / [2](https://github.com/Exodus-Privacy/exodus-android-app) or [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Managers
 * ⭐ **[VirusTotal](https://docs.virustotal.com/docs/mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Tracking Remover
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
@@ -1420,11 +1420,11 @@
 * ⭐ **[LocalSend](https://localsend.org/)** - File Sharing / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** or [pairdrop](https://pairdrop.net/) - File Sharing
 * ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [File Explorer Compose](https://github.com/Raival-e/File-Explorer-Compose), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) / [Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) - File Managers / Explorers
-* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#1dm), [ADM](https://rentry.co/FMHYBase64#adm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
+* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#link-1dm), [ADM](https://rentry.co/FMHYBase64#adm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
-* [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) - Cloud Storage
+* [Dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) - Cloud Storage
 * [RSAF](https://github.com/chenxiaolong/RSAF) - Add RClone Remotes to Android Storage Framework
 * [aQRoss](https://aqross.app/) - QR Code File Sharing
 * [iyox-Wormhole](https://github.com/iyox-studios/iyox-Wormhole) or [Wormhole](https://gitlab.com/lukas-heiligenbrunner/wormhole) - File Sync / Sharing
@@ -1854,7 +1854,7 @@
 
 ## ▷ Android Live TV
 
-* ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)** - IPTV Player / [Extra Features](https://rentry.co/FMHYBase64#tivimate-guide)
+* ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)** - IPTV Player
 * [Perfect IPTV Player](https://rentry.co/FMHYBase64#perfect-iptv-player) - IPTV Player
 * [OTTRun](https://www.ottrun.com/) - IPTV Player
 * [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/) - IPTV Player
@@ -1955,6 +1955,7 @@
 
 * 🌐 **[IPA Apps](https://ipa-apps.me/)** or [Jailbreaks.app](https://jailbreaks.app/) - Jailbreaking Tool Indexes
 * 🌐 **[Types of Jailbreak](https://ios.cfw.guide/types-of-jailbreak/)** - List of Jailbreak Types
+* 🌐 **[⁠AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * ⭐ **[iOS Guide](https://ios.cfw.guide/)** - iOS Jailbreaking Guide
 * ⭐ **[/r/jailbreak Discord](https://discord.com/invite/jb)** - Jailbreaking Community / [Subreddit](https://reddit.com/r/jailbreak)
 * ⭐ **[/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
@@ -3065,7 +3066,7 @@
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
 * ⭐ **[BandLab](https://www.bandlab.com/)** - Digtal Audio Workstation
 * ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [DrumBit](https://drumbit.app/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
-* [UltraBox](https://ultraabox.github.io/), [Furnace](https://tildearrow.org/furnace/), [JummBox](https://jummb.us/) / [GitHub](https://github.com/jummbus/jummbox) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers / Trackers
+* [UltraBox](https://ultraabox.github.io/), [AbyssBox](https://choptop84.github.io/abyssbox-app/), [16-Bits](https://16-bits.org/), [Furnace](https://tildearrow.org/furnace/), [JummBox](https://jummb.us/) / [GitHub](https://github.com/jummbus/jummbox), [BeepBox](https://www.beepbox.co/) or [GoldBox](https://aurysystem.github.io/goldbox/) - Chiptune Sequencers / Trackers
 * [Pro-54](https://cmajor.dev/docs/Examples/Pro54/) - Pro-53 Browser Port
 * [Roland50.studio](https://roland50.studio/) or [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Drum Machine / TB-303 Bass Synth
 * [Efflux](https://www.igorski.nl/application/efflux/), [OnlineSequencer](https://onlinesequencer.net/) or [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Online Sequencers
@@ -5583,6 +5584,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ## ▷ Korean
 
 * ⭐ **[Learn Korean](https://discord.gg/e3H9Pde)** - Korean Learning Discord
+* ⭐ **[⁠LetsLearnHangul](http://letslearnhangul.com/)** - Hangul Learning / Practice
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
@@ -5703,7 +5705,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Dev.tube](https://dev.tube/) - Developer Talks
 * [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [LightOJ](https://lightoj.com/) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
+* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [code.golf](https://code.golf/), [LightOJ](https://lightoj.com/) or [Code Golf](https://codegolf.stackexchange.com/) - Programming / Coding Challenges
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
@@ -6070,6 +6072,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
+* [Nerd Café](https://nerdcafe.org/) - IGCSE / Alvl Community / Notes ⁠[Discord](https://discord.gg/hbYcYmT3CJ)
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
@@ -6593,7 +6596,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
-* [dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
+* [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
 * [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
@@ -7228,7 +7231,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/XN9sW77H) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Ares](https://www.aresclient.com/) - Client
-* [Codex-Ipsa Launcher](https://codex-ipsa.cz/) - Launcher for Older Versions
 * [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
 
 ***
@@ -7372,7 +7374,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Mobalytics](https://mobalytics.gg/) or [DeepLoL](https://www.deeplol.gg/) - Game Performance & Stats Analyzer
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
-* [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/), [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stat Trackers / Hero Guides
+* [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
 * [mood.gg](https://mood.gg/) - LoL Character-Based Audio Playlists
 * [RuneForge](https://www.runeforge.io/) - Custom LoL Skins / [Discord](https://discord.com/invite/runeforge)
@@ -7626,6 +7628,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
+* [⁠Anti Denuvo Sanctuary](https://discord.com/invite/D4fYBbfzGG) - Free Denuvo Games
 * [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Download Clean Steam Files
 
 ***
@@ -7835,6 +7838,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [AliceISO](https://alice.al/) - ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
+* [Axekin](https://axekin.fr/) - ROMs / Use Translator / [Discord](https://discord.com/invite/emulationfr)
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more
 * [Edge Emulation](https://edgeemu.net/) - ROMs
@@ -8351,7 +8355,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Word Games
 
-* 🌐 **[Wordleverse](https://wordleverse.net/)**, [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
+* 🌐 **[Wordleverse](https://wordleverse.net/)**, [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
 * ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
@@ -8656,6 +8660,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [iFake](https://ifaketextmessage.com/) - Fake Text Conversation Creator
+* [Wojak Studio](https://wojak-studio.com/) - Wojak Meme Creator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
 * [Master of all Science](https://masterofallscience.com/) - Rick and Morty Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator
@@ -8837,7 +8842,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 # ► Download Images
 
 * 🌐 **[2ndBrain](https://rentry.co/2ndBrain)** or [designer](https://start.me/p/jj0JAp/designer) - Image Download Site Indexes
-* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
+* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)**
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
@@ -9068,11 +9073,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * ⭐ **[IrfanView](https://www.irfanview.com/)**
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
-* ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
 * ⭐ **[FastStone](https://www.faststone.org/index.htm)**
 * ⭐ **[qView](https://interversehq.com/qview/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
+* ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
 * [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
@@ -9584,7 +9589,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
 * [bypass.link](https://bypass.link/) - Bypass Link Shorteners
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
-* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
+* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.gg/bypass-city)
 * [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
 * [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
@@ -9623,6 +9628,9 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [PicSee](https://picsee.io/) - `psee.io/5pye68`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
+* [u.to](https://u.to/) - `u.to/jc85Ig`
+* [f1.tf](https://f1.tf/) - `f1.tf/hMbn`
+* [ShortURL](https://shorturl.at/) - `shorturl.at/ioOk0`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
@@ -10140,40 +10148,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ***
 ***
 
-# ► Linux Distros
-
-* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own.
-
-***
-
-* ⭐ **[DistroChooser](https://distrochooser.de/)**
-* [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)
-* [distro.moe](https://distro.moe/) - Find Random Distros
-* [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
-* [DotShare](http://dotshare.it/) - Distro Config Index
-* [ArchiveOS](https://archiveos.org/)
-* [OS.click](https://os.click/en)
-* [LinuxTracker](https://linuxtracker.org/)
-* [OpenSourceFeed](https://www.opensourcefeed.org/)
-* [Pkgs](https://pkgs.org/) / [Repology](https://repology.org/)
-* [Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
-
-***
-
-## ▷ Linux Communities
-
-* ⭐ **[All Things Linux](https://discord.gg/linux)** - Linux Discord Server
-* [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord Server
-* [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
-* [Arch Linux Community](https://discord.gg/3m6dbPR) - Linux Discord Server
-* [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
-* [Linux.org](https://linux.org/) - Linux Forum
-* [Arch Forums](https://bbs.archlinux.org/) - Linux Forum
-* [Gentoo Forums](https://forums.gentoo.org/) - Linux Forum
-
-***
-
-## ▷ Linux Guides
+# ► Linux Guides
 
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
@@ -10194,54 +10169,36 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-## ▷ Linux System
+# ► Linux Communities
 
-* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
-* 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility Database / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
-* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
-* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
-* [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
-* [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
-* [SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - Monitor / Log System Activity
-* [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin)
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
-* [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
-* [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
-* [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
-* [picom](https://github.com/yshui/picom) - Compositor for standalone X11 Window Managers
-* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
-* [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
-* [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
-* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
-* [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
-* [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
-* [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
-* [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
-* [NetBoot](https://netboot.xyz/) - Boot Linux Distros
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
-* [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
-* [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/linuxboot/heads)
-* [GParted](https://gparted.org/) - Partition Manager
-* [Archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
-* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
-* [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
-* [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
-* [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
-* [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
-* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
-* [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa) / [GitHub](https://github.com/leaningtech/webvm)
-* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
-* [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
-* [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
-* [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer Guides
-* [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
-* [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
-* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
-* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
-* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
-* [nosystemd](https://nosystemd.org/) - Alternatives to systemd
-* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon
+* ⭐ **[All Things Linux](https://discord.gg/linux)** - Linux Discord Server
+* [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord Server
+* [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
+* [Arch Linux Community](https://discord.gg/3m6dbPR) - Linux Discord Server
+* [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
+* [Linux.org](https://linux.org/) - Linux Forum
+* [Arch Forums](https://bbs.archlinux.org/) - Linux Forum
+* [Gentoo Forums](https://forums.gentoo.org/) - Linux Forum
+
+***
+
+# ► Linux Distros
+
+* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own.
+
+***
+
+* ⭐ **[DistroChooser](https://distrochooser.de/)**
+* [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)
+* [distro.moe](https://distro.moe/) - Find Random Distros
+* [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
+* [DotShare](http://dotshare.it/) - Distro Config Index
+* [ArchiveOS](https://archiveos.org/)
+* [OS.click](https://os.click/en)
+* [LinuxTracker](https://linuxtracker.org/)
+* [OpenSourceFeed](https://www.opensourcefeed.org/)
+* [Pkgs](https://pkgs.org/) / [Repology](https://repology.org/)
+* [Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 
 ***
 
@@ -10353,6 +10310,57 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
+## ▷ Linux System
+
+* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
+* 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility Database / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
+* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
+* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
+* [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
+* [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
+* [SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - Monitor / Log System Activity
+* [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin)
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
+* [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
+* [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
+* [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
+* [picom](https://github.com/yshui/picom) - Compositor for standalone X11 Window Managers
+* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
+* [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
+* [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
+* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
+* [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
+* [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
+* [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
+* [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
+* [NetBoot](https://netboot.xyz/) - Boot Linux Distros
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
+* [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/linuxboot/heads)
+* [GParted](https://gparted.org/) - Partition Manager
+* [Archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
+* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
+* [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
+* [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
+* [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
+* [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
+* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
+* [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa) / [GitHub](https://github.com/leaningtech/webvm)
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
+* [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
+* [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
+* [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer Guides
+* [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
+* [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
+* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
+* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
+* [nosystemd](https://nosystemd.org/) - Alternatives to systemd
+* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon
+
+***
+
 ## ▷ Linux Video
 
 * ⭐ **[mpv](https://mpv.io/)** - Video Player
@@ -10444,6 +10452,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
+* [⁠SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod + DLC Unlocker 
 * [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - Steam Frontend
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
@@ -10858,6 +10867,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ System Tools
 
+* 🌐 **[⁠AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * ⭐ **[Alfred](https://www.alfredapp.com/)**, [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [SOL](https://sol.ospfranco.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
@@ -11252,7 +11262,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
 * [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
-* [SignalBox](https://www.map.signalbox.io/) - UK Live Train Map
+* [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
 * [Train positions](https://treinposities.nl/) - Netherlands Train Info Map
 * [Chronotrains](https://www.chronotrains.com/) - European Train Distances
 * [Abandoned Rails](https://www.abandonedrails.com/) - Abandoned US Railroad Routes
@@ -12228,7 +12238,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * ⭐ **[The Life Engine](https://thelifeengine.net/)** - Artificial Life Simulation / [Discord](https://discord.gg/ZsrAAByEnr) / [Video](https://youtu.be/iSAKEnRfles)
 * ⭐ **[Sandboxels](https://sandboxels.r74n.com/), [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox
-* ⭐ **[Liquid Layers](https://grantkot.com/ll/)** - Colorful Interactive Liquid Simulator
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
@@ -12496,6 +12505,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
 * [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
+* [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
 
 ## ▷ Downloading / تحميل
@@ -12631,7 +12641,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [/r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
-* [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
+* [Chine Firewall Test](https://www.dotcom-tools.com/china-firewall-test) or [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
 * [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
@@ -13128,7 +13138,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://m.vegamovies.ms/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[OlaMovies](http://app2.olamovies.download/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)
@@ -15276,8 +15286,9 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 # ► Tracking / Discovery
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List / [Downloader](https://greasyfork.org/en/scripts/514877)
+* ⭐ **[Five Books](https://fivebooks.com/)** - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
@@ -15287,11 +15298,10 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
-* [Five Books](https://fivebooks.com/) - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits / [Downloader](https://greasyfork.org/en/scripts/514877)
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
-* [BookWyrm](https://bookwyrm.social/) - Book Tracking Platform
+* [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
 * [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
@@ -15319,7 +15329,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Glimbay](https://glimbay.netlify.app/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
+* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
@@ -16233,50 +16243,34 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## Android Text Editors
 
-* ⭐ **[Acode](https://acode.app)** - Text Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
-* ⭐ **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text Editor
-* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text Editor
-* [Markor](https://fossdroid.com/a/markor.html) - Text Editor
+* ⭐ **[Acode](https://acode.app)** / [GitHub](https://github.com/Acode-Foundation/Acode) or **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text / Code Editors
+* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text / Code Editor
+* [Markor](https://fossdroid.com/a/markor.html) - Text Editor with Markdown Support
 
 ### Note-Taking
 
-* ⭐ **[Obsidian](https://obsidian.md/mobile)**
-* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**
-* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Support
-* [neutriNote](https://github.com/appml/neutrinote) - Markdown / Math Support
-* [Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile) - Encrypted Note-Taking
-* [Safe Notes](https://safenotes.dev/) - Encrypted Note-Taking / [GitHub](https://github.com/keshav-space/safenotes)
-* [Quillpad](https://quillpad.github.io/) - Markdown Support / [GitHub](https://github.com/quillpad/quillpad)
-* [Joplin](https://joplinapp.org/) - Markdown Support / [GitHub](https://github.com/laurent22/joplin/)
-* [Notebook](https://www.zoho.com/notebook/mobile-app.html)
-* [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us)
-* [NotePad](https://github.com/mshdabiola/NotePad) - Customizable Note-Taking
-* [ColorNote](https://www.colornote.com/)
-* [Notally](https://github.com/OmGodse/Notally)
-* [Walling](https://walling.app/)
-* [Google Keep](https://keep.google.com/)
-* [DarkNote](https://github.com/dozy-programmer/Dark-Note)
-* [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android)
-* [Kardi Notes](https://github.com/rikodot/kardi_notes_app)
-* [Moe Memos](https://memos.moe/)
-* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking / Writing
-* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Handwritten Notes
+* ⭐ **[Obsidian](https://obsidian.md/mobile)** - Highly Customizable Note-Taking App
+* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Minimalistic Note-Taking App
+* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose), [neutriNote](https://github.com/appml/neutrinote) or [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Note-Taking Apps with Markdown / Math Support
+* [Quillpad](https://quillpad.github.io/) / [GitHub](https://github.com/quillpad/quillpad) - Note-Taking App with Markdown Support
+* [Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile) - E2E Encrypted Note-Taking App
+* [Safe Notes](https://safenotes.dev/) / [GitHub](https://github.com/keshav-space/safenotes) - AES-256 Encrypted Note-Taking App
+* [Notebook](https://www.zoho.com/notebook/mobile-app.html), [NotePad](https://github.com/mshdabiola/NotePad), [Notally](https://github.com/OmGodse/Notally) or [Google Keep](https://keep.google.com/) - Multi-media Note-Taking Apps
+* [ColorNote](https://www.colornote.com/) - Simple / Minimalistic Note-Taking App
+* [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects
+* [Moe Memos](https://memos.moe/) - Self-hosted Note-Taking App 
+* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers
+* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Note-Taking Apps for Handwritten Notes
 
 ### To-Do Apps
 
-* ⭐ **[Tasks](https://tasks.org/)** - Sync Supported
-* ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)**
-* [Any.do](https://www.any.do/) - Sync Supported
-* [doable](https://doable.at/) - Sync Supported / Extensions
-* [Orgzly-revived](https://www.orgzly.com) - Sync Supported
-* [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
-* [Tasky](https://thatsmanmeet.github.io/tasky-web/)
-* [Alkaa](https://github.com/igorescodro/alkaa)
-* [Twos](https://www.twosapp.com/)
-* [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2)
-* [EverydayTasks](https://everydaytasks.jepfa.de/)
-* [Teuxdeux](https://teuxdeux.com/)
-* [Taskito](https://taskito.io/)
+* ⭐ **[Tasks](https://tasks.org/)** - Customizable To-Do App with Sync Support
+* ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)** - To-Do App with Pomodoro Timer
+* [Any.do](https://www.any.do/), [Orgzly-revived](https://www.orgzly.com) or [Taskito](https://taskito.io/) - To-Do Apps with Sync Support
+* [doable](https://doable.at/) - To-Do App with Sync / Extensions Support
+* [Alkaa](https://github.com/igorescodro/alkaa), [Teuxdeux](https://teuxdeux.com/), [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2) or [Twos](https://www.twosapp.com/) - Simple To-Do Apps
+* [EverydayTasks](https://everydaytasks.jepfa.de/) - To-do App with Statistics
+
 
 ***
 
@@ -16523,7 +16517,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * ⭐ **[Neal.fun](https://neal.fun/)**
 
-[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [artistaiden](https://artistaiden.com/), [ToyBox](https://toybox.toms.toys/), [DO ONLINE NOW GUYS](http://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html)
+[Grant Kot](https://grantkot.com/), [Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [artistaiden](https://artistaiden.com/), [ToyBox](https://toybox.toms.toys/), [DO ONLINE NOW GUYS](http://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html)
 
 ***
 
@@ -17050,7 +17044,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist)
+[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist), [airfield1972](https://t.me/airfield1972)
 
 ***
 
@@ -17343,6 +17337,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Voleflix](https://vole.wtf/voleflix/) - Public Domain / Originals
 * [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies) - Recently Uploaded Full Movies
 * [FreeGreatMovies](https://www.freegreatmovies.com/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - Curated YouTube Movies Collections
+
 
 ***
 ***
@@ -19310,6 +19305,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** or **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
+* [⁠Enma](https://www.enma.lol/) -  Sub / Dub / Auto-Next
 * [Vumeto](https://vumeto.com/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/se4NzzY5R7)
 * [Hikari](https://watch.hikaritv.xyz/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3)
 * [AnimeOwl](https://animeowl.me/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/rFHXVGZ)
@@ -19318,6 +19314,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [AniZone](https://anizone.to/) - Sub
+* [⁠Animyne](https://animyne.com/) - Sub / Dub
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
@@ -19381,7 +19378,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DramaGo](https://dramago.in/)** - TV / Movies
 * ⭐ **[DramaCool](https://dramacool.com.tr/)**, [2](https://dramacool.tools/) - TV / Movies
-* ⭐ **[ViewAsian](https://www.viewasian.org/)** - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [KissKH](https://kisskh.co/) - TV / Movies
 * [DramaHood](https://dramahood.top/), [2](https://kshow123.mom/) - TV / Movies
@@ -19769,7 +19765,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[OOMoye](https://www.oomoye.me/)** - Movies / TV / Anime / Some NSFW
-* ⭐ **[VegaMovies](https://vegamovies.rs/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/rgshows)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass (Must Have)](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
@@ -20126,7 +20122,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
-* ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)** or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
+* ⭐ **[WhereYouWatch](https://whereyouwatch.com/)** or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * ⭐ **[BingeClock](https://www.bingeclock.com/)**, [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
 * ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Streaming Site Guide](https://redd.it/yykvnv)
 * ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
