@@ -2644,7 +2644,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/), [3](https://doubledouble.top/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -3358,7 +3358,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
+* **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [OuterTune](https://github.com/OuterTune/OuterTune) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
@@ -7019,7 +7019,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
-* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN)
+* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN) / [GitHub](https://github.com/Exefer/lowspecgames)
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
@@ -7752,7 +7752,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
 * [Untap.in](https://untap.in/) - Test Card Game Decks
-
 
 ***
 ***
@@ -15708,7 +15707,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds
 * [Disgradient](https://disgradient.netlify.app/) - Discord Folder / Role Color Gradients
-* [Nelly](https://nelly.tools/tags), [Discord Server Tags](https://discordguildas.neocities.org/) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
+* [Nelly](https://nelly.tools/tags) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
 * [Emoji List](https://discords.com/emoji-list) - Discord Emojis / GIFs
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
 * [ImageClipboard](https://imageclipboard.com/), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - Free Discord Nitro Emojis
