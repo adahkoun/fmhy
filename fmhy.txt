@@ -63,7 +63,6 @@
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [CodeBerg](https://codeberg.org/tblock/tblock)
 * [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [X](https://x.com/PhishingArmy)
-* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles for Apple Devices
 * [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
@@ -6200,7 +6199,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [StuDoc](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack) / [2](https://dlstudocu.com/), [Gizmo](https://gizmo.ai/), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [Discord](https://discord.gg/jUvBM2sEs4) / [Subreddit](https://www.reddit.com/r/Anki/) / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [MemoAnki](https://memoanki.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
-* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
+* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://docs.ankiweb.net/resources.html), [2](https://github.com/tianshanghong/awesome-anki)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
@@ -8117,7 +8116,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
-* [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
 * [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
 
 ***
@@ -11077,6 +11075,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
+* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [wBlock](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
@@ -13008,7 +13007,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
 * [yodu](https://www.yodu.org/) - Books / Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
-* [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
+* [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock 
 * [kanunu8](https://www.kanunu8.com/) - Light-Novels
 * [hetushu](https://hetushu.com/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
@@ -13442,12 +13441,13 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
-* ⭐ **[TamilMV](https://www.1tamilmv.com/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
+* ⭐ **[TamilBlasters](https://1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages 
+* ⭐ **[TamilMV](https://www.1tamilmv.com/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
+* ⭐ **[StreamBlasters](https://streamblasters.pm/)** - Movies / TV / Sub / Dub / 720p / 1080p / 4K / Anime / Indian Languages (Use basic Ublock Origin Lite Ad filter)
+* ⭐ **[Cineby](https://www.cineby.app/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[HydraHD](https://hydrahd.ac/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[ToonStream](https://toonstream.love/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
@@ -13455,10 +13455,14 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[FireFlix](https://fireflix.fun/)**, [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * ⭐ **[Anime World India](https://theanimeworld.in/)** - Anime
+* [TamilMV](https://www.1tamilmv.com/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
+* [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub /  720p / 1080p
+* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
+* [TamilDhool](https://www.tamildhool.net/) - Tamil TV Shows / TV Serials /  720p / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
 * [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
@@ -13472,10 +13476,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [aFimlyWap](https://www.afilmywap.org.vc/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
-* [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720p
-* [StreamBlasters](https://streamblasters.pm/) - Movies / TV / Sub / Dub / 720p / 1080p / 4K / Anime / Indian Langauges
-* [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p
-* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p
+* [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720pp
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [DistroTV](https://distro.tv/) - Live TV
@@ -16670,10 +16671,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## Encrypted Messengers
 
-* ⭐ **[Matrix](https://matrix.org/)**, [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/) or [Fluffy](https://fluffychat.im) - Matrix Clients / [Mod Tools](https://github.com/matrix-org/mjolnir)
+* ⭐ **[Matrix](https://matrix.org/)**
+* [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/), [Fluffy](https://fluffychat.im) or [Element](https://element.io/) / [GitHub](https://github.com/element-hq) - Matrix Clients / [Mod Tools](https://github.com/matrix-org/mjolnir)
 * ⭐ **[Signal](https://signal.org/)** / [Extract Messages](https://github.com/tbvdm/sigtop)
 
-[Element](https://element.io/) / [GitHub](https://github.com/element-hq), [Cwtch](https://docs.cwtch.im/), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en)
+[Cwtch](https://docs.cwtch.im/), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en)
 
 ### Matrix Home Servers
 
@@ -17254,10 +17256,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[tempsmss](https://tempsmss.com/)**
-* ⭐ **[OnlineSim](https://onlinesim.io/)**
-* ⭐ **[SMS-Activate](https://sms-activate.guru/en/freeNumbers)**
-* ⭐ **[proovl](https://proovl.com/numbers)**
-* [Direct SMS](https://www.directsms.com.au/) or [Vumber](https://www.vumber.com/) - No CC Required Trial Sites
+* [Direct SMS](https://www.directsms.com.au/) - No CC Required Trial
 
 [yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [FreePhoneNum](https://freephonenum.com/), [ReceiveSMSOnline](https://receivesmsonline.me/), [ReceiveFreeSMS](http://receivefreesms.com/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
 
