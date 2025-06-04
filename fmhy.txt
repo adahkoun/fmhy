@@ -935,7 +935,7 @@
 
 ## ▷ Modded APKs
 
-* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
+* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/) - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://fmhy.net/text-tools#translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)**
@@ -1349,7 +1349,7 @@
 * [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client
 * [Intra](https://getintra.org) - Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
-* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Managers
+* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App / [GitHub](https://github.com/M66B/NetGuard)
@@ -2076,7 +2076,7 @@
 * ⭐ **[Signal](https://signal.org/)** - Encrypted Messaging / [GitHub](https://github.com/signalapp/Signal-iOS)
 * ⭐ **[SimpleX](https://apps.apple.com/app/id1605771084)** - Encrypted Messaging / [GitHub](https://github.com/simplex-chat/simplex-chat)
 * [Session](https://getsession.org/) - Encrypted Messaging
-* [Olvid](https://olvid.io/en/) - Encrypted Messaging
+* [Damus](https://damus.io/) - Encrypted Messaging
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
 * [Brave](https://apps.apple.com/app/id1052879175) or [Firefox Focus](https://apps.apple.com/app/id1055677337) - Privacy-Focused Browsers
 * [Element](https://apps.apple.com/app/id1083446067) or [FluffyChat](https://apps.apple.com/app/id1551469600) - Matrix Clients
@@ -2099,7 +2099,6 @@
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [fnd](https://fnd.io/) - App Store Search
-* [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Sign-Up Required
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
@@ -2610,6 +2609,7 @@
 
 ## ▷ Audio Ripping Sites
 
+* ⭐ **[DAB Music Player](https://dab.yeet.su/)** - FLAC / Uses Qobuz / [Desktop App](https://dab.yeet.su/download)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
@@ -2675,7 +2675,6 @@
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[TrackerHub](https://rentry.co/FMHYBase64#trackerhub)** - Artists Spreadsheet / [Frontend](https://artistgrid.netlify.app/) / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
-* ⭐ **[DAB Music Player](https://dab.yeet.su/)** - FLAC / Uses Qobuz / [Desktop App](https://dab.yeet.su/download)
 * [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
@@ -6438,7 +6437,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
 * ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
-* [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
+* [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
@@ -6845,7 +6844,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ## ▷ Game Launchers
 
 * ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
-* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
+* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** (closed source) / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
 * [Ascendara](https://ascendara.app/) - Game Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
@@ -9530,7 +9529,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
-* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/) or [IUS](https://instantusername.com/) - Check Username Availability
+* [Namechk](https://namechk.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [UsernameGenerator](https://usernamegenerator.com/) - Username Generator
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Errors
 
@@ -10817,6 +10816,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
+* [mx moment](https://mx-moment.xyz/) - Encrypted Chat Client
 * [Adium](https://adium.im/), [Polari](https://apps.gnome.org/Polari/) / [GitLab](https://gitlab.gnome.org/GNOME/polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
 * [Dino](https://dino.im/) - XMPP Client
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
@@ -11130,7 +11130,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
-* [Damus](https://damus.io/) - Encrypted Messaging App
+* [Damus](https://damus.io/) or [Status](https://status.app/) - Encrypted Messaging Client
 
 ***
 
@@ -16624,11 +16624,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[Signal](https://signal.org/#signal)** or **[Mollyim](https://github.com/mollyim/mollyim-android)**
 * ⭐ **[Briar](https://briarproject.org/)**
 
-[Status](https://status.app/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://snikket.org/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
+[Status](https://status.app/), [Olvid](https://olvid.io/en/), [OpenKeychain](https://www.openkeychain.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
 
 **Video / Text**
 
-[Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication), [SmallTalk](https://github.com/ouchadam/small-talk), [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app)
+[Jami](https://jami.net/), [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app)
 
 ***
 
@@ -16638,7 +16638,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[Signal](https://signal.org/)** / [Extract Messages](https://github.com/tbvdm/sigtop)
 * [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/), [Fluffy](https://fluffychat.im) or [Element](https://element.io/) / [GitHub](https://github.com/element-hq) - Matrix Clients
 
-[Cwtch](https://docs.cwtch.im/), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en)
+[Cwtch](https://docs.cwtch.im/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/en/homepage-linphone/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en), [Olvid](https://olvid.io/en/)
 
 ### Matrix Home Servers
 
@@ -19203,9 +19203,9 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[Bludclart](https://watch.bludclart.com/)** or [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/nAQxPUs4)
-* ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
-* ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
+* ⭐ **[FlickyStream](https://flickystream.net)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
+* ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[Flixer](https://flixer.su/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/KAtZhA6r)
 * ⭐ **[Cinemaos](https://cinemaos.live/)**, [2](https://cinemaos-v3.vercel.app/) - Movies / TV / Anime / Auto-Next / Watch Parties
 * [Rive](https://rivestream.org/), [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
