@@ -2324,7 +2324,6 @@
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Downloadable/Streamable Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 
 ***
@@ -2792,19 +2791,19 @@
 
 * ⭐ **[NCS](https://ncs.io/)** - Copyright Free Music
 * ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - Music / Sound Effects
-* [UppBeat](https://uppbeat.io/) - Music for Creators
-* [BenSound](https://www.bensound.com/) - Popular Library
+* [UppBeat](https://uppbeat.io/) - Music for Creators / Freemium
+* [BenSound](https://www.bensound.com/) - Popular Library / Freemium
 * [Unminus](https://www.unminus.com/) - Professional Tracks
-* [FreePD](https://freepd.com/) - Public Domain Music
+* [FreePD](https://freepd.com/) - Public Domain Music / CC0 License
 * [Free Music Archive](https://freemusicarchive.org/) - Curated Library
-* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library
+* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library / CC0 License
 * [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
 * [Fugue](https://icons8.com/music) - Music for Creators
-* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library
+* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
 * [tunetank](https://tunetank.com/) - Music for Videos
 * [purple-planet](https://www.purple-planet.com/) - Duo Composers
 * [freemusicpublicdomain](https://www.freemusicpublicdomain.com/) - Public Domain Tracks
-* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library
+* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
 * [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
 * [Sampld](https://sampld.app/) - Sample Finder
 
@@ -3779,7 +3778,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * 🌐 **[Streaming Site APIs](https://rentry.co/FMHYBase64#streaming-apis)**
 * 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
-* 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs 
+* 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** / [2](https://cas.zukijourney.com/), [FreeAPIProviders](https://rentry.co/freeapiproviders) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[Countless](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
@@ -3882,24 +3881,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Map Creators / Editors
 
-* ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
-* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
-* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
+* ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+* ⭐ **[Sprite Fusion](https://www.spritefusion.com/)** / [Discord](https://discord.gg/8sCEAspmBV), [Tiled](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Tilemap Editors
+* [LDtk](https://ldtk.io/) or [OGMO Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 * [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Generator
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor
-* [HexHTML](https://hextml.playest.net/) - Hexagon Fantasy Map Editor
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Tutorials
-* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Medieval Fantasy City Generator
-* [donjon](https://donjon.bin.sh/) - RPG Resources / Tools
-* [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - RPG Map Editor
-* [MapTool](https://www.rptools.net/toolbox/maptool/) - Virtual Tabletop for RPG Games
-* [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
-* [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
 * [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
-* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Tool / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
-* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Single-page Dungeon Map Generator
 
 ***
 
@@ -4382,7 +4368,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
+* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [⁠FreeDomain](https://domain.digitalplat.org/) / [GitHUb](https://github.com/DigitalPlatDev/FreeDomain), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains / Domains
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
@@ -5829,20 +5815,21 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Rubiks Cube
 
-* ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_rubiks_cube)**
+* 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
+* ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
 * [SpeedSolving](https://www.speedsolving.com/) / [Wiki](https://www.speedsolving.com/wiki) or [Ruwix](https://ruwix.com/) - Cubing Wiki / Community Forum
 * [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
+* [Cubing Time Standard](https://cubingtimestandard.com/) - Track Your Performance Across WCA Events
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
 * [F2L Trainer](http://expertcuber.by/f2ltrainer.php) or [ZBLL Trainer](http://bestsiteever.ru/zbll/) - Algorithm-Specific Trainers
+* [Hypercubing](https://hypercubing.xyz/) - Hypercubing Wiki
 * [Speedcube.app](https://speedcube.app/) - Cubing Timer (Mobile-Friendly)
 * [SolveTheCube](https://solvethecube.com/timer) - Cubing Timer
 * [YoTimer](https://www.yotimer.com/) - Cubing Timer
 * [qqTimer](https://www.qqtimer.net/) - Cubing Timer
-* [FT Cube](https://shuantsu.github.io/ft_cube/) - Cubing Sim + Net Gen
-* [⁠Mapleaves](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Sim 
 
 ***
 
@@ -5872,6 +5859,22 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [2700chess](https://2700chess.com/) - Live Chess Player Ratings
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
 * [ChessVariants](https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides
+
+***
+
+## ▷ Dungeons & Dragons
+
+* ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
+* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
+* ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content References
+* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
+* ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
+* [Avrae](https://avrae.io/) - D&D Automation Discord Bot
+* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+* [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
+* [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
+* [NaturalCrit](https://naturalcrit.com/) or [GM Binder](https://www.gmbinder.com/) - 5E Homebrew Document Editors
+* [D&D Wiki](https://www.dandwiki.com/) - D&D Homebrew Wiki
 
 ***
 
@@ -6461,18 +6464,12 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [One Commander](https://www.onecommander.com/) - File Manager
 * [Free Commander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
-* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
-* [FileExplorer](https://github.com/omeryanar/FileExplorer) - File Manager
-* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - File / Archive Manager
 * [Total Commander](https://www.ghisler.com/) - Shareware File Manager
-* [Organize](http://organize.readthedocs.io) - Automated File Manager
-* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
-* [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar) or [Multi Commander](https://multicommander.com/) - Tab File Managers
+* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
-* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
 ***
 
@@ -6634,9 +6631,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filezilla)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
-* [Wing FTP](https://www.wftpserver.com/) - FTP Client
-* [Xlight](https://xlightftpd.com/) - FTP Client
-* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
@@ -6651,19 +6645,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
 * [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
-* [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze)
-* [TransferNow](https://www.transfernow.net/en)
-* [Horizon Send](https://send.hrzn.cool/) / [GitHub](https://github.com/httpjamesm/horizon-send)
-* [Salad Room](https://saladroom.net/)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
-* [sendfilesencrypted.com](https://sendfilesencrypted.com/)
-* [LIGHTNING SHARE](https://lightning-share.vercel.app/) / [GitHub](https://github.com/chroline/lightning-share)
-* [rDrop](https://rdrop.link/)
-* [WebDrop](https://webdrop.space/) / [GitHub](https://github.com/subins2000/WebDrop)
-* [MyAirBridge.com](https://www.myairbridge.com/)
-* [Sprend](https://sprend.com/)
 * [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
-* [FileLove](https://file.love/) / [GitHub](https://github.com/midzer/filelove/)
 
 ***
 
@@ -6780,6 +6762,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [AList](https://alist.nn.ci) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager
+* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 
 ***
 
@@ -7548,20 +7531,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-## ▷ ARPG / MMORPG Tools
-
-* 🌐 **[Grim Tools](https://www.grimtools.com/)** - Grim Dawn Tools
-* 🌐 **[Last Epoch Tools](https://www.lastepochtools.com/)** - Last Epoch Tools
-* ⭐ **[Maxroll](https://maxroll.gg/)** - ARPG Build Guides
-* [D4Builds](https://d4builds.gg/) - Diablo IV Build Guides
-* [Helltides](https://helltides.com/) - Diablo IV Pit Leaderboards / Helltide Tracker
-* [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
-* [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
-* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
-* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
-
-***
-
 ## ▷ Pokemon Tools
 
 * 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Pokémon Resources
@@ -7741,28 +7710,46 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Tabletop Tools
 
-* 🌐 **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Resources
-* 🌐 **[5ETools](https://5e.tools/)**, [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - TTRPG Tools
-* ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
-* ⭐ **[Kanka](https://kanka.io/)** - Tabletop RPG Manager
-* [RPG.net](https://forum.rpg.net/) - RPG Forums
-* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - D&D 4e/5e Books
-* [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
-* [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
-* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
-* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - Dungeons & Dragons Rules
+* 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
+* ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
+* [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
+* [RPGBOT](https://rpgbot.net/), [Wargamer](https://www.wargamer.com/), [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - RPG / TTRPG Tools & Learning Resources
+* [Tabletopy](https://tabletopy.com/) or [Tabletop Audio](https://tabletopaudio.com/) - Immersive SFX / Music for TTRPGs
+* [RPGnet](https://forum.rpg.net/) - RPG Forum
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
-* [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
-* [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
-* [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
-* [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
-* [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
-* [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rule / Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
+* [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
-* [Untap.in](https://untap.in/) - Test Card Game Decks
+* [Untap.in](https://untap.in/) - Test Card Game Decks / Account Required
+
+***
+
+## ▷ RPG Worldbuilding
+
+* ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [RPTools](https://www.rptools.net/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
+* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Storywriting Tools
+* ⭐ **[donjon](https://donjon.bin.sh/)** or [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural RPG / Fantasy Map Generators
+* [watabou](https://watabou.itch.io/) - Generators for Fantasy Worlds, Dungeons, and More
+* [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories
+* [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows
+* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Account Required
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Account Required
+* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
+
+***
+
+## ▷ ARPG / MMORPG Tools
+
+* 🌐 **[Grim Tools](https://www.grimtools.com/)** - Grim Dawn Tools
+* 🌐 **[Last Epoch Tools](https://www.lastepochtools.com/)** - Last Epoch Tools
+* ⭐ **[Maxroll](https://maxroll.gg/)** - ARPG Build Guides
+* [D4Builds](https://d4builds.gg/) - Diablo IV Build Guides
+* [Helltides](https://helltides.com/) - Diablo IV Pit Leaderboards / Helltide Tracker
+* [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
+* [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
+* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
+* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 
 ***
 ***
@@ -7818,6 +7805,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ***
 
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/) / [Unofficial Discord](https://discord.gg/Up3YARe4RW)
+* ⭐ **[KaOsKrew](https://rentry.co/FMHYBase64#kaoskrew)** - Torrent
 * ⭐ **[DODI Repacks](https://rentry.co/FMHYBase64#dodi)** - Torrent / [Lootlink Bypass](https://rentry.co/lootlink) / **[Site Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dodi-warning)** / [Discord](https://discord.gg/D9WU7C9FSE)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / [Telegram](https://t.me/ARMGDDNGames)
@@ -7956,7 +7944,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
-* [RPGMaker Games](https://archive.org/details/rpgmaker-net-game-archive) - Games Made via RPGMaker
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
@@ -7994,7 +7981,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
 * ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)**, [Switch Emulation](https://rentry.co/FMHYBase64#switch-emulation) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
-* [⁠Axekin Wiki](https://wiki.axekin.com/en/) - Emulation Guides
+* [⁠Axekin Wiki](https://wiki.axekin.com/en/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
@@ -8037,9 +8024,9 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
-* ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/axekin)
+* ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[RUTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use VPN
-* ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
+* ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs / [Restore Downloads](https://greasyfork.org/en/scripts/495800)
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
@@ -8085,7 +8072,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
-* [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
+* [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) - Sonic Fan Games + Mods
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
 
 ***
@@ -8167,6 +8154,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 # ► Puzzle Games
 
 * ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
+* [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
@@ -8193,16 +8181,16 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Rubiks Cube
 
-* 🌐 **[cubing.net](https://www.cubing.net/)** - Cubing Tools
-* ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
+* ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
 * ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
-* [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types Windows App
+* [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types App / Windows
 * [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
+* [FT Cube](https://shuantsu.github.io/ft_cube/) - Multi-Size Simulator & Net Generator
+* [Maple Leaves Sim](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Simulator
 * [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
 * [RubikSolve](https://rubiksolve.com/) - 3x3 Cube Solver
 * [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
-* [⁠CubingTimeStandard](https://cubingtimestandard.com/) - Cubing Time Standards / Tools
 
 ***
 
@@ -8258,6 +8246,72 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
+# ► Tabletop Games
+
+* 🌐 **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** - Evan Leed's Board Games Index
+* ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+* ⭐ **[Roll20](https://roll20.net/)** or [Rolisteam](https://rolisteam.org/) - Online Virtual Tabletop Platforms
+* [FlyOrDie](https://www.flyordie.com/) - Multiplayer Tabletop Games
+* [PlayOK](https://www.playok.com/) - Multiplayer Tabletop Games
+* [Screentop](https://screentop.gg/) - Online Tabletop Games / [Discord](https://discord.gg/wva8ebh)
+* [FunNode](https://www.funnode.com/) - Online Board Games
+* [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
+* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Account Required
+* [MahjongFun](https://www.mahjongfun.com/), [Mahjong 4 Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
+* [lishogi.org](https://lishogi.org/) - Shogi
+* [Online-Go.com](https://online-go.com/) - Multiplayer GO
+* [lidraughts.org](https://lidraughts.org/) - Multiplayer Checkers
+* [Colonist](https://colonist.io/) - Settlers of Catan-Style Board Game
+* [Party Project](https://char64.itch.io/partyproject) - Mario Party-Style Tabletop Games
+* [Richup.io](https://richup.io/) - Monopoly-Style Board Game
+* [Rally the Troops](https://www.rally-the-troops.com/) - Historical-Style Board Games / [Discord](https://discord.gg/CBrTh8k84A)
+* [Hexxagon](https://hexxagon.com/) - Rubies Vs Pearls
+* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
+
+***
+
+## ▷ Chess
+
+* ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
+* ⭐ **[lichess](https://lichess.org/)**, [PyChess](https://www.pychess.org/), [GameKnot](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
+* ⭐ **lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend)
+* ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
+* [Chesses](https://pippinbarr.com/chesses/), [TheChessDirectory](https://thechessdirectory.com/play-chess) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
+* [Echo Chess](https://echochess.com/) - Morph-Style Chess / [Discord](https://discord.gg/echochess)
+* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
+* [Pokemon Chess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
+* [playlaser.xyz](https://playlaser.xyz/) - Alternative-Style Chess
+* [ChessBase](https://www.chessbase.in/) / [English](https://en.chessbase.com/) - Indian Chess News
+
+***
+
+## ▷ Card Games
+
+* ⭐ **[World of Card Games](https://worldofcardgames.com/)** - Multiplayer Card Games
+* ⭐ **[Codenames](https://codenames.game/)** - Party Card Game
+* [CardGames.io](https://cardgames.io/) - Multiplayer Card Games
+* [247Games](https://www.247games.com/) - Multiplayer Card Games
+* [CardzMania](https://www.cardzmania.com/) - Multiplayer Card Games
+* [BlacksReds](https://blacksreds.com/) - Multiplayer Card Games
+* [PlayOK](https://www.playok.com/) - Multiplayer Card Games
+* [PlayingCards.io](https://playingcards.io/) - Multiplayer Card Games
+* [Lethal](https://playlethal.fun/) - Single Turn Card Game
+* [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Card Game / [Discord](https://discord.gg/KM2ggJtkMr)
+* [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
+* [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
+* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
+* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
+* [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
+* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
+* [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
+
+***
+
+## ▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
+
+***
+
 # ► Browser Games
 
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
@@ -8289,7 +8343,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Taiko Web](https://cjdgrevival.com/) - Taiko no Tatsujin / Rhythm Game
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game
-* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [Slope Plus](https://coweggs.itch.io/slope-plus) - Downhill Ball Game
@@ -8367,8 +8421,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[Eaglercraft](https://eaglercraft.com/)**, [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eaglercraft-note) / [Site List](https://deev.is/)
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
-* ⭐ **[Codenames](https://codenames.game/)** - Party Card Games
-* ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
+* ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game
 * ⭐ **[skribbl](https://skribbl.io/)**, [DrawBattle](https://drawbattle.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) or [MiniBlox](https://miniblox.io/) - Online Minecraft Clones
@@ -8392,7 +8445,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
-* [Hordes.io](https://hordes.io/) / [Discord](https://discord.com/invite/hordes) or [Aberoth](https://aberoth.com/) - Browser MMORPGs
 * [Really Boring Website](https://really.boring.website/) - Online Scattergories
 * [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Betrayal](https://betrayal.io/) - Among Us Clone
@@ -8476,8 +8528,10 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-## ▷ RPG
+## ▷ RPGs
 
+* ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)**
+* ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
 * [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
 * [Dynast](https://dynast.io/) - Survival Browser Game
@@ -8490,64 +8544,22 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
 * [Isleward](https://bigbadwaffle.itch.io/isleward) - Browser RPG
-
-***
-
-## ▷ Board / Card / Dice
-
-* 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/) - Board Game Index
-* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
-* [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
-* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games
-* [Tabletopia](https://tabletopia.com/) - Online Board Games
-* [FunNode](https://www.funnode.com/) - Online Board Games
-* [Screentop](https://screentop.gg/) - Online Board Games / [Discord](https://discord.gg/wva8ebh)
-* [PartyProject](https://char64.itch.io/partyproject) - Mario Party Style Multiplayer Game
-* [gTOONS](https://gtoons.app/) - Cartoon Network Strategy Card Game Revival / [Discord](https://discord.gg/KM2ggJtkMr)
-* [BlackReds](https://blacksreds.com/) - Multiplayer Card Games
-* [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
-* [Playok](https://www.playok.com/) - Multiplayer Card Games
-* [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
-* [⁠PlayLethal](https://playlethal.fun/) - Single Turn Card Game
-* [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
-* [PictureCards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [AllBad.Cards](https://bad.cards/) or [Pretend You're](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Cards Against Humanity Online
-* [Cards Against Humanity](https://www.cardsagainsthumanity.com/#downloads) - Printable Cards Against Humanity
-* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Online Solitaire
-* [PySolFC](https://pysolfc.sourceforge.io/) - Downloadable Solitaire / [GitHub](https://github.com/shlomif/PySolFC)
-* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
-* [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [Colonist](https://colonist.io/) - Multiplayer Settlers of Catan
-* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
-* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
-* [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
+* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
+* [ProgressQuest](http://progressquest.com/) - Idle RPG
+* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
+* [Hordes.io](https://hordes.io/) / [Discord](https://discord.com/invite/hordes) or [Aberoth](https://aberoth.com/) - Browser MMORPGs
+* [RPGMaker Game Archive](https://archive.org/details/rpgmaker-net-game-archive) - Collection of Games From RPGMaker
 
 ***
 
 ## ▷ Strategy
 
-* ↪️ **[Chess Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
-* ⭐ **[lichess](https://lichess.org/)**, [PyChess](https://www.pychess.org/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
-* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extend](https://lichess.org/page/extend)
-* ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
+* [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [OpenFront](https://openfront.io/) / [Discord](https://discord.gg/k22YrnAzGp) or [Territorial](https://territorial.io/) - Conquest / War Style Games
-* [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
-* [lishogi](https://lishogi.org/) - Shogi
-* [Online GO](https://online-go.com/) - Multiplayer GO
 * [Warzone](https://www.warzone.com/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
-* [Chesses](https://pippinbarr.com/chesses/), [ChessDirectory](https://thechessdirectory.com/play-chess) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
-* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Chess Base](https://www.chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
-* [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 
 ***
 
@@ -8559,7 +8571,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
 * [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator
 * [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
-* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
@@ -8569,8 +8580,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
 * [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
-* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
-* [ProgressQuest](http://progressquest.com/) - Idle RPG
 * [Anti Matter Dimensions](https://ivark.github.io/) - Anti Matter Idle Game
 * [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
 * [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
@@ -8682,7 +8691,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[Photoshop](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) / Windows, Mac / Use VPN / [Guide](https://rentry.co/FMHYBase64#adobe-guide) / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [Github](https://github.com/imagemagick/imagemagick)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [LazPaint](https://lazpaint.github.io/) / Windows, Mac, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
@@ -8690,6 +8699,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [GitHub](https://github.com/darktable-org/darktable)
 * [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [GitHub](https://github.com/RawTherapee/RawTherapee)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, Mac, Linux
+* [IOPaint](https://github.com/Sanster/IOPaint) - AI Image Multitool Editor
   
 ***
 
@@ -8718,6 +8728,20 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
+
+***
+
+## ▷ Content Removers
+
+* ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/) or [HAMA](https://www.hama.app/) - Object Removers
+* ⭐ **[BRIA RMBG](https://briaai-bria-rmbg-2-0.hf.space/)** - Background Remover
+* ⭐ **[BG Bye](https://bgbye.fyrean.com/)**, [2](https://fyrean.itch.io/bgbye-background-remover) - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
+* [Pixelcut](https://www.pixelcut.ai/) - BackgroundRemover
+* [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
+* [remove.bg](https://www.remove.bg/)  - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
+* [ORMBG](https://huggingface.co/spaces/schirrmacher/ormbg) - Human Optimised Background Remover
+* [Rembg](https://github.com/danielgatis/rembg) - Self-Hosted Background Remover
+* [Segment Anything](https://segment-anything.com/) - Visual Segmentation / [GUI](https://github.com/dibrale/samist) / [Stable Diffusion WebUI](https://github.com/continue-revolution/sd-webui-segment-anything) / [Extensions](https://github.com/kevmo314/magic-copy)
 
 ***
 
@@ -9895,7 +9919,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
 * ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * [Rankchart](https://rankchart.org/) - Multiple Domain Tools
-* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist) or [DNSTwister](https://dnstwister.report/) - Phishing Domain Scanners
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
 * [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
 * [AtSameIP](https://atsameip.intercode.ca/) - Find Websites on the Same IP
@@ -10836,12 +10859,12 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/) or [Nushell](https://www.nushell.sh/) - Command Line Shells
 * ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
 * ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminal Emulators
+* ⭐ **[[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line Lessons
 * [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
-* [Command Line Guide](https://github.com/jlevy/the-art-of-command-line), [ManKier](https://www.mankier.com/) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dev/) - Bash Frameworks
@@ -11185,7 +11208,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD Resources
 * 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
-* [⁠UnitedBSD](https://www.unitedbsd.com/) - BSD Forum  / Community
+* [⁠UnitedBSD](https://www.unitedbsd.com/) - BSD Forum / Community
 * [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
 * [Pkgs](https://pkgs.org/) - Unix Packages / [Repology](https://repology.org/)
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
@@ -11193,6 +11216,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [pass](https://www.passwordstore.org/) - Unix Password Manager
 * [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 Libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
+
 
 ***
 ***
@@ -11813,8 +11837,8 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
-* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Eat This Much](https://www.eatthismuch.com/), [Mealime](https://www.mealime.com/) or [MealPrepPro](https://mealpreppro.com/) / [Android](https://play.google.com/store/apps/details?id=com.nibbleapps.meal_prep_pro) - Meal Prep & Planning Apps / Android, iOS
+* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
@@ -12640,7 +12664,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
-* [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
 * [John Conway’s Game of Life](https://playgameoflife.com/) - Cellular Automaton Game / [Patterns](https://conwaylife.appspot.com/library/) / [Video](https://youtu.be/CgOcEZinQ2I), [2](https://youtu.be/R9Plq-D1gEk)
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
@@ -13191,7 +13214,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [filmoflix](https://www.filmoflix.is/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / French VPN Required for Some Content
-* [french-streaming](https://www.french-streaming.tv) -  Movies / TV / Anime
+* [french-streaming](https://www.french-streaming.tv) - Movies / TV / Anime
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Account
@@ -13228,7 +13251,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
 * [PDF Prof](https://pdfprof.com/) - Educational Books
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
-* [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / NSFW / [Discord](https://discord.com/invite/origines)
 * [Mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
@@ -13560,14 +13582,14 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingunity.shop/) - Movies / TV
-* [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
-* [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
+* [StreamingCommunity](ttps://streaming-community.bio/) - Movies / TV
+* [Altadefinizione](https://altadefinizionegratis.vip/) - Movies / Sub / Dub / 1080p / 4K
+* [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
 * [CB01](https://cb01net.com/) - Movies / TV
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
-* [AnimeUnity](https://www.animeunity.so/) - Anime
+* [AnimeUnity](https://www.animeunity.so/) - Anime / Dub
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
 * [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / 1080p
@@ -13958,7 +13980,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
 * [fanfiction.com](https://fanfiction.com.br/) - Fanfiction
 * [Revista PROGRAMAR](https://www.revista-programar.info) - Programming Magazine
-* [D&D 5e BR](https://dnd5ed.github.io) - Dungeons and Dragons Guides
 * [Escritas.org](https://www.escritas.org) - Poetry / Quotes
 * [Luso-Poemas](https://www.luso-poemas.net) - Poetry
 * [Poesias Online](https://www.poesiasonline.com) - Poetry
@@ -15034,7 +15055,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ## ▷ Audiobook Tools
 
-*  [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
+* [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
 * [AudiobookShelf](https://www.audiobookshelf.org/) / [GitHub](https://github.com/advplyr/audiobookshelf-app) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
@@ -15633,6 +15654,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [BTW](https://booktriggerwarnings.com/) - Book Trigger Warnings
 * [DIY Book Scanner](https://diybookscanner.org/) - How to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
+
 
 ***
 ***
@@ -17247,6 +17269,8 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
 * [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
+* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
+* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
@@ -17283,6 +17307,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
+* [Organize](http://organize.readthedocs.io) - Automated File Manager
 
 ***
 
@@ -17593,6 +17618,8 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [HackBGRT](https://github.com/Metabolix/HackBGRT) - Boot Logo Changer
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
 * [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - File Explorer Effects
+* [QTTabBar](https://github.com/indiff/qttabbar) - Windows File Explorer Enhancement
+* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
 * [ModernFlyouts](https://modernflyouts-community.github.io) - Modern Flyouts / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
@@ -18016,11 +18043,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_text_generators)**
+* ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
-* ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
@@ -18032,7 +18059,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [STARC](https://starc.app/), [WriteSolo](https://www.writersolo.com/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
-* [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
 * [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
@@ -18372,7 +18398,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 # ► Helpful Sites / Apps
 
-* 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt) / [3](https://github.com/ngosang/trackerslist), [trackerslist](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [NewTrackOn](https://newtrackon.com/list) - Tracker Lists
+* 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
 * ↪️ **[Auto Torrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)** / [Site List](https://en.wikipedia.org/wiki/Nuke_(warez)#List_of_public_predb_websites), **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [NGP](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
@@ -19053,6 +19079,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
+* [Redflix](https://redflix.co/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
 * [Purplix](https://neoxa.transdev.pw/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
@@ -19577,7 +19604,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / Right Click to Save
 * [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies / Right Click to Save
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
-* [⁠Cinemalux](https://cinemalux.store/) - Movie / TV 
+* [⁠Cinemalux](https://cinemalux.store/) - Movie / TV
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [UHDMovies](https://modlist.in/?type=uhdmovies) - Movies / 4K
 * [⁠4KHDHub](https://4khdhub.fans/) - Movies / TV / 4K
